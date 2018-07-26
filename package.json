@@ -1,6 +1,6 @@
 {
   "name": "node-sass-css-tilde-importer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node-sass customer importer which imports CSS files, also supporting tilde syntax to directly import from node_modules directory",
   "main": "index.js",
   "repository": {
